@@ -16,6 +16,6 @@
   ],
   "description" : "TON Masks IMG 1",
   "external_url" : "https://tonmasks.com",
-  "image" : "https://tonmasks.com/test-collection/ton_masks_test_item_1.png",
+  "image" : "https://raw.githubusercontent.com/solidovic/tonmasks-nft-example-static/main/ton_masks_test_item_1.png",
   "name" : "TON Masks Item#1"
 }

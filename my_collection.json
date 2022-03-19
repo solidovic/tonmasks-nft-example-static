@@ -1,0 +1,8 @@
+{
+  "name": "TON Masks Test",
+  "description": "TON Masks Test image collection",
+  "image": "https://raw.githubusercontent.com/solidovic/tonmasks-nft-example-static/main/ton_masks_test_collection.jpg",
+  "external_link": "https://tonmasks.com",
+  "seller_fee_basis_points": 100,
+  "fee_recipient": "0xA97F337c39cccE66adfeCB2BF99C1DdC54C2D721"
+}
