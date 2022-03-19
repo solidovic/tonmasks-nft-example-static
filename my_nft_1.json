@@ -1,0 +1,21 @@
+{
+  "attributes" : [
+    {
+      "trait_type" : "rarity",
+      "value" : 0
+    },
+    {
+      "trait_type" : "base_mask",
+      "value" : "logo"
+    },
+    {
+      "display_type" : "number",
+      "trait_type" : "generation",
+      "value" : 1
+    }
+  ],
+  "description" : "TON Masks logo",
+  "external_url" : "https://tonmasks.com",
+  "image" : "https://sun9-67.userapi.com/impg/WcrxYNtu9SFDzvSO9WXlt-7WkjMbGeq8GtOiDw/fDbnBUKLCwg.jpg?size=1000x1000&quality=95&sign=304a30143ac40ae589d3c1218efe8232&type=album",
+  "name" : "TON Masks Item#1"
+}
